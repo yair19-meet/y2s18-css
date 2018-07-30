@@ -1,4 +1,51 @@
 body {
 	background-color: #333745;
-    color: white;
+    color: #AAABBC;
 }
+
+#hello {
+	color: #AAABBC;
+
+
+}
+
+.veg {
+	color: MediumSeaGreen;
+
+
+}
+
+.non-veg {
+	color: Tomato;
+}
+
+.sidebar {
+	background-color: #8BD7E3;
+}
+
+.title {
+	height: 60px;
+	width: 100%;
+}
+
+.container {
+	position: relative;
+}
+
+.content {
+	position: absolute;
+	top: 0px;
+	left: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
